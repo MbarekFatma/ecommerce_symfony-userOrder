@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1b1de32-edd2-42e5-b5af-0dc535ab0416" name="Changes" comment="test">
+      <change beforePath="$PROJECT_DIR$/ecommerce_symfony-userOrder/src/Controller/Admin/CategoryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_symfony-userOrder/src/Controller/Admin/CategoryController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_symfony-userOrder/src/Entity/Category.php" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_symfony-userOrder/src/Entity/Category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_symfony-userOrder/src/Entity/Coordinate.php" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_symfony-userOrder/src/Entity/Coordinate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_symfony-userOrder/src/Entity/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_symfony-userOrder/src/Entity/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_symfony-userOrder/src/Form/CategoryType.php" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_symfony-userOrder/src/Form/CategoryType.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_symfony-userOrder/src/Form/RegistrationFormType.php" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_symfony-userOrder/src/Form/RegistrationFormType.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_symfony-userOrder/templates/cart/admin.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_symfony-userOrder/templates/cart/admin.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_symfony-userOrder/templates/homePrincipale/homePrincipale.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_symfony-userOrder/templates/homePrincipale/homePrincipale.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_symfony-userOrder/templates/pages/category/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_symfony-userOrder/templates/pages/category/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_symfony-userOrder/templates/pages/category/new.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_symfony-userOrder/templates/pages/category/new.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_symfony-userOrder/templates/reclamation/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_symfony-userOrder/templates/reclamation/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_symfony-userOrder/templates/registration/register.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_symfony-userOrder/templates/registration/register.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_symfony-userOrder/templates/template.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_symfony-userOrder/templates/template.html.twig" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/ecommerce_symfony-userOrder/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ecommerce_symfony-userOrder" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe">
+    <include_path>
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/proxy-manager-bridge" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/password-hasher" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/sendgrid-mailer" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/web-link" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/google-mailer" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/intl" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/debug-bundle" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/doctrine/data-fixtures" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/doctrine-messenger" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/uid" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/doctrine/sql-formatter" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/notifier" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/messenger" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/doctrine/doctrine-fixtures-bundle" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/polyfill-uuid" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfonycasts/verify-email-bundle" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/knplabs/knp-components" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/knplabs/knp-paginator-bundle" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/twig/extra-bundle" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/phpstan/phpdoc-parser" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/easycorp/easyadmin-bundle" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/friendsofphp/proxy-manager-lts" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/stripe/stripe-php" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/composer" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/laminas/laminas-code" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/ecommerce_symfony-userOrder/vendor/symfony/form" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2QzRzZK66GFkokAgVb7OOy94TNG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/xampp/htdocs/ecommerce_symfony-userOrder/ecommerce_symfony-userOrder/public/uploads&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.webide.settings.project.settings.php.zend.framework.tool&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ecommerce_symfony-userOrder\ecommerce_symfony-userOrder\public\uploads" />
+      <recent name="C:\xampp\htdocs\ecommerce_symfony-userOrder\ecommerce_symfony-userOrder\templates\pages\category" />
+      <recent name="C:\xampp\htdocs\ecommerce_symfony-userOrder\ecommerce_symfony-userOrder\templates\pages\product" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ecommerce_symfony-userOrder\ecommerce_symfony-userOrder\templates\homePrincipale" />
+      <recent name="C:\xampp\htdocs\ecommerce_symfony-userOrder\ecommerce_symfony-userOrder\public\uploads" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml.dist" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1b1de32-edd2-42e5-b5af-0dc535ab0416" name="Changes" comment="" />
+      <created>1686354693005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686354693005</updated>
+      <workItem from="1686354693052" duration="7479000" />
+      <workItem from="1686403527572" duration="2740000" />
+      <workItem from="1686496077558" duration="13293000" />
+      <workItem from="1686738958319" duration="3505000" />
+      <workItem from="1686755748833" duration="152000" />
+      <workItem from="1686761785130" duration="3793000" />
+      <workItem from="1686817904691" duration="24989000" />
+      <workItem from="1686862453430" duration="8587000" />
+      <workItem from="1686908739096" duration="5440000" />
+      <workItem from="1686949694710" duration="8613000" />
+      <workItem from="1686998892235" duration="4704000" />
+      <workItem from="1687032641747" duration="1338000" />
+      <workItem from="1687119987119" duration="1720000" />
+      <workItem from="1697570758600" duration="55000" />
+      <workItem from="1697572353885" duration="426000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/ecommerce_symfony-userOrder/templates/products/show.html.twig</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/ecommerce_symfony-userOrder/templates/security/login.html.twig</url>
+          <line>77</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

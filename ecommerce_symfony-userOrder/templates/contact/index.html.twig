@@ -1,0 +1,59 @@
+{% extends 'template.html.twig' %}
+
+{% block body %}
+    <!-- Page Header Start -->
+    <div class="container-fluid bg-secondary mb-5">
+        <div class="d-flex flex-column align-items-center justify-content-center" style="min-height: 100px">
+            <h1 class="font-weight-semi-bold text-uppercase mb-3">Contact Us</h1>
+            <div class="d-inline-flex">
+                <p class="m-0"><a href="">Home</a></p>
+                <p class="m-0 px-2">-</p>
+                <p class="m-0">Contact</p>
+            </div>
+        </div>
+    </div>
+    <!-- Page Header End -->
+
+    <!-- Contact Start -->
+    <div class="container-fluid pt-5">
+        <div class="text-center mb-4">
+            <h2 class="section-title px-5"><span class="px-2">Contact For Any Queries</span></h2>
+        </div>
+        <div class="row px-xl-5">
+            <div class="col-lg-7 mb-5">
+                <div class="contact-form">
+                    <div id="success"></div>
+                    <div class="container">
+                        {% for message in app.flashes('success') %}
+                            <div class="alert alert-success mt-4">
+                                {{ message }}
+                            </div>
+                        {% endfor %}
+
+                        {% for message in app.flashes('danger') %}
+                            <div class="alert alert-success mt-4">
+                                {{ message }}
+                            </div>
+                        {% endfor %}
+
+
+
+                        {{ form(form) }}
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-12 mb-5 pr-3 pr-xl-5">
+                <div class="d-flex flex-column justify-content-start">
+                    <h5 class="font-weight-bold text-dark mb-4">Informations</h5>
+                    <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>Tunis, Sfax, Route Mharza km1</p>
+                    <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>paratech@gmail.com</p>
+                    <p class="mb-0"><i class="fa fa-phone-alt text-primary mr-3"></i>+216 21 360 877</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Contact End -->
+
+
+
+{% endblock %}

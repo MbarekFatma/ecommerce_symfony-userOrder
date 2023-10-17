@@ -1,0 +1,49 @@
+{% extends 'template.html.twig' %}
+
+{% block body %}
+	<div class="container-fluid bg-secondary mb-5">
+		<div class="d-flex flex-column align-items-center justify-content-center" style="min-height: 100px">
+			<h1 class="font-weight-semi-bold text-uppercase mb-3">Products of {{ category.name }}</h1>
+			<div class="d-inline-flex">
+				<p class="m-0"><a href="{{ path('home') }}">Home</a></p>
+				<p class="m-0 px-2">-</p>
+				<p class="m-0">Products</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="container mt-4">
+		<div class="container-fluid pt-8">
+			<div class="row px-xl-8">
+				<div class="col-lg-12 table-responsive mb-5">
+					<table class="table table-bordered text-center mb-0">
+						<thead class="bg-secondary text-dark">
+						<tr>
+							<th>Id</th>
+							<th>Product Name</th>
+							<th>Price</th>
+							<!-- Ajoutez ici d'autres colonnes spécifiques à vos produits -->
+						</tr>
+						</thead>
+						<tbody class="align-middle">
+						{% for product in products %}
+							<tr>
+								<td class="align-middle">{{ loop.index }}</td>
+								<td class="align-middle">{{ product.name }}</td>
+								<td class="align-middle">{{ product.price }}</td>
+								<!-- Ajoutez ici d'autres cellules spécifiques à vos produits -->
+							</tr>
+						{% else %}
+							<tr>
+								<td colspan="3" class="text-center">
+									<h6 class="font-weight-medium">No products available</h6>
+								</td>
+							</tr>
+						{% endfor %}
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+	</div>
+{% endblock %}
